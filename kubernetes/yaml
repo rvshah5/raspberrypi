@@ -15,7 +15,7 @@ spec:
       hostNetwork: true
       containers:
       - name: iot
-        image: rvshah5/rishabhcontainer_modification
+        image: rvshah5/new_modification
         ports:
            - containerPort: 9005
              hostPort: 9005
